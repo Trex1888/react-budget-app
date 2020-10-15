@@ -7,7 +7,7 @@ const ExpenseItem = ({ expense, handleDelete, handleEdit }) => {
     <li className="item">
       <div className="info">
         <span className="expense">{charge}</span>
-        <span className="span amount">${amount}</span>
+        <span className="span amount">${amount}</span> 
       </div>
       <div>
         <button

@@ -19,7 +19,7 @@ const ExpenseForm = ({
             className="form-control"
             id="charge"
             name="charge"
-            placeholder="e.g. rent"
+            placeholder="Example: Rent"
             value={charge}
             onChange={handleCharge}
           />
@@ -31,7 +31,7 @@ const ExpenseForm = ({
             className="form-control"
             id="amount"
             name="amount"
-            placeholder="e.g. 100"
+            placeholder="Example: 100"
             value={amount}
             onChange={handleAmount}
           />

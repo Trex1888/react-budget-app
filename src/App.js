@@ -8,7 +8,7 @@ import { v4 as uuidv4 } from "uuid";
 /* const initial = [
   { id: uuidv4(), charge: "mortgage", amount: 950 },
   { id: uuidv4(), charge: "car payment", amount: 320 },
-  { id: uuidv4(), charge: "student loans", amount: 250 },
+  { id: uuidv4(), charge: "student loans", amount: 250 }, 
   { id: uuidv4(), charge: "food ", amount: 300 },
 ]; */
 
